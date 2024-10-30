@@ -10,3 +10,12 @@
 
 # Practica 6
 ![image](https://github.com/user-attachments/assets/f6faa253-c9b6-42c2-99ff-00d755b9e55f)
+
+# practica7
+![image](https://github.com/user-attachments/assets/cf5ef386-8d77-47c6-ad82-c7e09b6eab0f)
+
+# practica 8
+![image](https://github.com/user-attachments/assets/e79b6002-1a20-4686-ac6d-39f6827d8d39)
+
+# Practica 9
+![image](https://github.com/user-attachments/assets/e1c34952-91cb-410a-8a3a-e1a899610fe6)
